@@ -6,8 +6,8 @@
 // Author3 and ID and Group: Amira Basaam Dabbak & 20210799 & A
 // Teaching Assistant: Eng. Nesma Mohamed & Eng. Yousra Ayman
 
-#ifndef TEXT_EDITOR_CS112_203_2ND_SECTION4_20210083_20210380_20210799_A4_TEXTEDITORFUNC_H
-#define TEXT_EDITOR_CS112_203_2ND_SECTION4_20210083_20210380_20210799_A4_TEXTEDITORFUNC_H
+#ifndef TEXT_EDITOR_TEXTEDITORFUNC_H
+#define TEXT_EDITOR_TEXTEDITORFUNC_H
 #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
@@ -37,4 +37,4 @@ void first_caps();
 void save();
 
 
-#endif //TEXT_EDITOR_CS112_203_2ND_SECTION4_20210083_20210380_20210799_A4_TEXTEDITORFUNC_H
+#endif //TEXT_EDITOR_TEXTEDITORFUNC_H
